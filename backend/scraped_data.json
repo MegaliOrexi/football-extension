@@ -1,0 +1,1973 @@
+[
+  {
+    "league": "Spain - LaLiga",
+    "league_link": "https://www.goal.com/en-ae/laliga/fixtures-results/34pl8szyvrbwcmfkuocjm3r6t",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/34pl8szyvrbwcmfkuocjm3r6t.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/deportivo-alaves-vs-getafe/23n2n54lbxua6dvdp571jpzbo",
+        "time": "23:00",
+        "home": "Deportivo Alaves",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4dtdjgnpdq9uw4sdutti0vaar.png",
+        "home_score": "",
+        "away": "Getafe",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1n1j0wsl763lq7ee1k0c11c02.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Italy - Serie A",
+    "league_link": "https://www.goal.com/en-ae/serie-a/fixtures-results/1r097lpxe0xn03ihb7wi98kao",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/1r097lpxe0xn03ihb7wi98kao.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/lecce-vs-atalanta/apbo0n4lr6ntc9ivxgis1js44",
+        "time": "20:00",
+        "home": "Lecce",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bi1fxjrncd0ram0oi7ja1jyuo.png",
+        "home_score": "",
+        "away": "Atalanta",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e75syeuawg3ql8nwpi3vr2btz.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/torino-vs-ac-milan/aqktmoolr6kotu0h9757cx9g4",
+        "time": "22:45",
+        "home": "Torino",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7gnly6999wao1xarwct4p8fe9.png",
+        "home_score": "",
+        "away": "AC Milan",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9dntj5dioj5ex52yrgwzxrq9l.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Saudi Arabia - Saudi Pro League",
+    "league_link": "https://www.goal.com/en-ae/saudi-pro-league/fixtures-results/ea0h6cf3bhl698hkxhpulh2zz",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/639nv0r2ixeusx4nzqyzb5iuq.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/al-hazem-vs-al-riyadh/8h3g1n0jfuh0agjlwph3kcl5g",
+        "time": "20:20",
+        "home": "Al Hazem",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dgi72jj27o29uizez3ciocdwc.png",
+        "home_score": "",
+        "away": "Al Riyadh",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e8vx5q2foz1r1ytu2mgbfj0m.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/al-taawoun-vs-al-shabab/8i99myijrlgeemedtf2680178",
+        "time": "20:20",
+        "home": "Al-Taawoun",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/o1iwuxbv233ayidxpibbxy59.png",
+        "home_score": "",
+        "away": "Al Shabab",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2ry1fixv27p3xepazsxcuyoho.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/al-ahli-vs-abha/8ilhthiuut1hz1v6ardf7bims",
+        "time": "22:00",
+        "home": "Al Ahli",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aj1bdyuwq8pdwycaa9kba8uni.png",
+        "home_score": "",
+        "away": "Abha",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d47tf49ishm9qnfd8zyc8wv0j.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Germany - Bundesliga",
+    "league_link": "https://www.goal.com/en-ae/bundesliga/fixtures-results/6by3h89i2eykc341oz7lv1ddd",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/6by3h89i2eykc341oz7lv1ddd.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/hoffenheim-vs-bayern-munich/7gsto05hdvg6r1zozosfa4e1g",
+        "time": "17:30",
+        "home": "Hoffenheim",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4l9mrqzmajz5crzlz50mtbt6x.png",
+        "home_score": "",
+        "away": "Bayern Munich",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/apoawtpvac4zqlancmvw4nk4o.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/borussia-dortmund-vs-darmstadt/7fep32km6xbk1e6m3yp4vt0d0",
+        "time": "17:30",
+        "home": "Borussia Dortmund",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dt4pinj0vw0t0cvz7za6mhmzy.png",
+        "home_score": "",
+        "away": "Darmstadt",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1y7e48j8swyafegsucvewse5a.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/bayer-leverkusen-vs-augsburg/7fz0hbaiqwb1cwd6zugjyypzo",
+        "time": "17:30",
+        "home": "Bayer Leverkusen",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7ad69ngbpjuyzv96drf8d9sn2.png",
+        "home_score": "",
+        "away": "Augsburg",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ex3psl8e3ajeypwjy4xfltpx6.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/werder-bremen-vs-bochum/7h4k6zzni24be3ot6o146k6xg",
+        "time": "17:30",
+        "home": "Werder Bremen",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cu0eztmjcsbydyp53aleznorw.png",
+        "home_score": "",
+        "away": "Bochum",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eq1oq6y61xnzq88zu0cnw131z.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/fc-heidenheim-vs-fc-koln/7hohubxvkbi7fi1fgpmppg104",
+        "time": "17:30",
+        "home": "FC Heidenheim",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3xcg7xikgrn2x8oa65sopb2is.png",
+        "home_score": "",
+        "away": "FC Koln",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8q1ul09cygzswb7tb456bmifv.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/wolfsburg-vs-mainz-05/7gitnysrz5qww8kv3935ulfys",
+        "time": "17:30",
+        "home": "Wolfsburg",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/a8l3w3n0j99qjlsxj3jnmgkz1.png",
+        "home_score": "",
+        "away": "Mainz 05",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1c7qokc1j5z50cjj4tcu32haa.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/vfb-stuttgart-vs-borussia-moenchengladbach/7hepg3m23xn4jghli84usng9g",
+        "time": "17:30",
+        "home": "VfB Stuttgart",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3dwlvz6cl4lcavvrg0y2dycrt.png",
+        "home_score": "",
+        "away": "Borussia Moenchengladbach",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/go76xxm0xyfgqt1h6tcrtimm.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/eintracht-frankfurt-vs-rb-leipzig/7g8y0c9i6dtb0obqo5jaz1afo",
+        "time": "17:30",
+        "home": "Eintracht Frankfurt",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c5hderjlkcoaze51e5wgvptk.png",
+        "home_score": "",
+        "away": "RB Leipzig",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9gefq4dz9b2hl8rqrxwrlrzmp.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/union-berlin-vs-freiburg/7fopb0ruqu23m2tseb7r66cd0",
+        "time": "17:30",
+        "home": "Union Berlin",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/a8d2gb2nag8fy0itbuxmcibh2.png",
+        "home_score": "",
+        "away": "Freiburg",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6k5zscdm9ufw0tguvzyjlp5hq.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "International - CAF Champions League",
+    "league_link": "https://www.goal.com/en-ae/caf-champions-league/fixtures-results/cse5oqqt2pzfcy8uz6yz3tkbj",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/esperance-vs-al-ahly-sc/253vktq8u94ud94qrh7b8nw2c",
+        "time": "23:00",
+        "home": "Esperance",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3s830ae09zdviu2cnqxixflq1.png",
+        "home_score": "",
+        "away": "Al Ahly SC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1q2hx9pw8c7x88utqunk4e6xl.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Turkiye - Super Lig",
+    "league_link": "https://www.goal.com/en-ae/super-lig/fixtures-results/482ofyysbdbeoxauk19yg7tdt",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/482ofyysbdbeoxauk19yg7tdt.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/gaziantep-fk-vs-fatih-karagumruk/1kbmywrn1pm3o69o2vz3r44d0",
+        "time": "20:00",
+        "home": "Gaziantep FK",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2agzb2h4ppg7lfz9hn7eg1rqo.png",
+        "home_score": "",
+        "away": "Fatih Karagumruk",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c3txoz57mu7w9y1jprvnv2flr.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/rizespor-vs-kasimpasa/1jfdwhwecc78jqgpvh8oxw5qs",
+        "time": "20:00",
+        "home": "Rizespor",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1lbrlj3uu8wi2h9j79snuoae4.png",
+        "home_score": "",
+        "away": "Kasimpasa",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4idg23egrrvtrbgrg7p5x7bwf.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/istanbul-basaksehir-vs-trabzonspor/1kmigeg9hg60kjq77ry0piiac",
+        "time": "20:00",
+        "home": "Istanbul Basaksehir",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/47njg6cmlx5q3fvdsupd2n6qu.png",
+        "home_score": "",
+        "away": "Trabzonspor",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2yab38jdfl0gk2tei1mq40o06.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/ankaragucu-vs-pendikspor/1j4xne7st6bkcxhzuw79m3uac",
+        "time": "20:00",
+        "home": "Ankaragucu",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/a7jkz1m32wntcvegrwjbr85t5.png",
+        "home_score": "",
+        "away": "Pendikspor",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9badgd05ykw5xo8tm6zci5aeu.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/besiktas-vs-hatayspor/1iuc60usnnfc7hjh53h2j2fis",
+        "time": "20:00",
+        "home": "Besiktas",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2ez9cvam9lp9jyhng3eh3znb4.png",
+        "home_score": "",
+        "away": "Hatayspor",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/efy1nhpn5l6hc27znhsptegba.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/samsunspor-vs-alanyaspor/1jq4ykl64t945euxcm39qnu38",
+        "time": "20:00",
+        "home": "Samsunspor",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dpsnqu7pd2b0shfzjyn5j1znf.png",
+        "home_score": "",
+        "away": "Alanyaspor",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/84fpe0iynjdghwysyo5tizdkk.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/kayserispor-vs-konyaspor/1lihwoc2e2gah2h7d6uci3cwk",
+        "time": "20:00",
+        "home": "Kayserispor",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c8ns6z3u8kxldv1zh1evu10rv.png",
+        "home_score": "",
+        "away": "Konyaspor",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cw4lbdzlqqdvbkdkz00c9ye49.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Portugal - Liga Portugal",
+    "league_link": "https://www.goal.com/en-ae/liga-portugal/fixtures-results/8yi6ejjd1zudcqtbn07haahg6",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1nbm5i9a0403zzvltn17lxinc.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/boavista-vs-vizela/c5ic7nalrycnqklvn43a2fcb8",
+        "time": "18:30",
+        "home": "Boavista",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3b4nxgvmwzstmoq6borytkwx1.png",
+        "home_score": "",
+        "away": "Vizela",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7fn0aazbc8nx0u040aulozds1.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/arouca-vs-vitoria-de-guimaraes/c6clg2rdjcc3yu1devdq2egpg",
+        "time": "18:30",
+        "home": "Arouca",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dich5v7sw466smbqap0d9rbyj.png",
+        "home_score": "",
+        "away": "Vitoria de Guimaraes",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8gvg1ranyf93hprfkwx3ofl2y.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/farense-vs-portimonense/c62i8p0y0t7k54ul4s4hazllg",
+        "time": "18:30",
+        "home": "Farense",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4q3s76lhr7sjib1a40ipix0sa.png",
+        "home_score": "",
+        "away": "Portimonense",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/co1i764h6b02husae71w6scs8.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/estrela-da-amadora-vs-gil-vicente/c5sfng0h7drq9cy633ovfbk7o",
+        "time": "18:30",
+        "home": "Estrela da Amadora",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/85nuf5511v5omdretfoh0c4k4.png",
+        "home_score": "",
+        "away": "Gil Vicente",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bwt8yfk8rkcwiwyr0mopd7wqd.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/moreirense-vs-estoril/c7i9wlejd12lsmxzfxbkcpyc4",
+        "time": "21:00",
+        "home": "Moreirense",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4a3yqn3kt1l18oklr7zxo4f1s.png",
+        "home_score": "",
+        "away": "Estoril",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/22mo7qbsnyi8wtucpvhgvhw2q.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/sporting-cp-vs-chaves/c78apyd2dud27d5xhs647u3v8",
+        "time": "21:00",
+        "home": "Sporting CP",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7catg5lpivcmpf4xhggh6d8rk.png",
+        "home_score": "",
+        "away": "Chaves",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/alyavx3ad35bp1xuwmqk7sgev.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/braga-vs-fc-porto/c7s9kjp2tv7losseuifcazmdw",
+        "time": "23:30",
+        "home": "Braga",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/26t6lvlpql4w5wu1ih73qpy36.png",
+        "home_score": "",
+        "away": "FC Porto",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/66bsnl0zjb7l5akwo00h0y5me.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "USA - Major League Soccer",
+    "league_link": "https://www.goal.com/en-ae/major-league-soccer/fixtures-results/287tckirbfj9nb8ar2k9r60vn",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/287tckirbfj9nb8ar2k9r60vn.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/nashville-sc-vs-atlanta-united/cnxlr6ctz2cfa6o232tx1htsk",
+        "time": "21:45",
+        "home": "Nashville SC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1oogd0fpwledjm2ycsuv7afze.png",
+        "home_score": "",
+        "away": "Atlanta United",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/943ue6l8ylnidoygbi9p8op2h.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Brazil - Serie A",
+    "league_link": "https://www.goal.com/en-ae/serie-a/fixtures-results/scf9p4y91yjvqvg5jndxzhxj",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/vitoria-vs-atletico-go/90h6rndewyn31oaytz67gflec",
+        "time": "",
+        "home": "Vitoria",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/436xob9epu7bzdu7c1zzjjdak.png",
+        "home_score": "",
+        "away": "Atletico GO",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/441ion913h05bwxctg48884uh.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Japan - J. League",
+    "league_link": "https://www.goal.com/en-ae/j-league/fixtures-results/8o5tv5viv4hy1qg9jp94k7ayb",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/lxyibh89lpdc0bfian1nx0xq.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/avispa-fukuoka-vs-cerezo-osaka/dgrg4vzppwn2hvsg5pcweydck",
+        "time": "",
+        "home": "Avispa Fukuoka",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ydlnn8jofdkseegh42az3fpt.png",
+        "home_score": "0",
+        "away": "Cerezo Osaka",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/90cc40yau7yv6n8r4xs361ofd.png",
+        "away_score": "2"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/sagan-tosu-vs-nagoya-grampus/dh7qcyn7ps4lh6nhvxj3qmk9g",
+        "time": "14:00",
+        "home": "Sagan Tosu",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/27o8mdqno6jslcjb709sxjwyy.png",
+        "home_score": "",
+        "away": "Nagoya Grampus",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/18c8ibslzapz40lfb8y5vygcs.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Scotland - Premiership",
+    "league_link": "https://www.goal.com/en-ae/premiership/fixtures-results/e21cf135btr8t3upw0vl6n6x0",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/e21cf135btr8t3upw0vl6n6x0.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/dundee-fc-vs-kilmarnock/33n2nspapdqs3eavajsegbkt0",
+        "time": "15:30",
+        "home": "Dundee FC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/g7em7tpuicehjy3wmsbimsee.png",
+        "home_score": "",
+        "away": "Kilmarnock",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/enzoyc121va61wtmjf4cm7p3d.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/hearts-vs-rangers/341ja4s7g35ypp3d5mxu17j84",
+        "time": "15:30",
+        "home": "Hearts",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1hcbcuu846pa3iw6qskiws1cu.png",
+        "home_score": "",
+        "away": "Rangers",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cnnku8uihko7u4th0fms4pvg6.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/celtic-vs-st-mirren/33a32mqhgws4sza8n02obr6s4",
+        "time": "15:30",
+        "home": "Celtic",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dvnjvad3p09dugr79gktlrtll.png",
+        "home_score": "",
+        "away": "St. Mirren",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/muo4d1nfi1vgyvz5n07tjmoo.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Argentina - Liga Profesional",
+    "league_link": "https://www.goal.com/en-ae/liga-profesional/fixtures-results/E1ETaHoS2tRIIlAWCWjiq",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vovxa97k7v7ofa85dah2xktb.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/independiente-rivadavia-vs-godoy-cruz/C67ZBn8SS44WYYNhITfoR",
+        "time": "22:30",
+        "home": "Independiente Rivadavia",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8inprqnxjps9ckiamn3cfoo8v.png",
+        "home_score": "",
+        "away": "Godoy Cruz",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1we2nqwg18sjn6cevduuapbkf.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Argentina - Primera B Metropolitana",
+    "league_link": "https://www.goal.com/en-ae/primera-b-metropolitana/fixtures-results/66nxwll8fur0rtp9q7wqaki1l",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vovxa97k7v7ofa85dah2xktb.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/villa-dalmine-vs-sportivo-italiano/etwpu2if0m8bz2j4xffb05o9g",
+        "time": "22:30",
+        "home": "Villa Dalmine",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/enggekgyta3n33z2pd4exvo0s.png",
+        "home_score": "",
+        "away": "Sportivo Italiano",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6v9i6trg5zm8nhsq38htka88n.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/deportivo-armenio-vs-colegiales/evg7tukzq8jrowkwy9yqca3v8",
+        "time": "22:30",
+        "home": "Deportivo Armenio",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cwxdondxcuaobgimfi71sesov.png",
+        "home_score": "",
+        "away": "Colegiales",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/983n3ng7mqncrjh0oo8kjccp8.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/los-andes-vs-excursionistas/ewzppzn91olzqax1gckq6wftg",
+        "time": "22:30",
+        "home": "Los Andes",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5efmp7x39v47kanemu8lcavd7.png",
+        "home_score": "",
+        "away": "Excursionistas",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ahqj8l3e4nj119q442nnoablj.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/comunicaciones-vs-dock-sud/ev2ernnpqjo7w3cpronhnmg44",
+        "time": "23:45",
+        "home": "Comunicaciones",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/icy5wed57qug0qnvunnv6c15.png",
+        "home_score": "",
+        "away": "Dock Sud",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2eqs839g60quk3mm6c4zxsutf.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Australia - A-League Men",
+    "league_link": "https://www.goal.com/en-ae/a-league-men/fixtures-results/xwnjb1az11zffwty3m6vn8y6",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/u5ieemi69z72c3bgczyy68lo.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/wellington-phoenix-vs-melbourne-victory/1h1ewqcc0h346n1lw4h906y38",
+        "time": "",
+        "home": "Wellington Phoenix",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6j4xzc2g1eeafo6v1f38d4x22.png",
+        "home_score": "0",
+        "away": "Melbourne Victory",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9xmhnv6im8h7c9e17oqvcx8gl.png",
+        "away_score": "0"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/central-coast-mariners-vs-sydney-fc/1hs2dp6zkz2gbpjyesfklgljo",
+        "time": "13:45",
+        "home": "Central Coast Mariners",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c4ygb6mnh53kpl2mpxe52l8jw.png",
+        "home_score": "",
+        "away": "Sydney FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/38ui5tfi8anjuh533emny2tz1.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Austria - Bundesliga",
+    "league_link": "https://www.goal.com/en-ae/bundesliga/fixtures-results/5c96g1zm7vo5ons9c42uy2w3r",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/hcs1bd49qliqqity6o268jyt.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/wolfsberger-ac-vs-wsg-tirol/89uqnr1jopmxefypve7dhjis",
+        "time": "19:00",
+        "home": "Wolfsberger AC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9pn4d8sj6pmqidrhhlvev437k.png",
+        "home_score": "",
+        "away": "WSG Tirol",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7uh2y9tk3j8dk6zinfu38pygi.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/altach-vs-austria-lustenau/909jj7mojbtqz347l1o7j7ys",
+        "time": "19:00",
+        "home": "Altach",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3lcvs7iiylixau81d0lruwsak.png",
+        "home_score": "",
+        "away": "Austria Lustenau",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9ws0f9wf5r8mdigwo0xpzv06v.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/bw-linz-vs-austria-wien/8n5z14bqiv5uip5n0mzndd04",
+        "time": "19:00",
+        "home": "BW Linz",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bm759tfjxbog9lhge0pbs219p.png",
+        "home_score": "",
+        "away": "Austria Wien",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/84gk4ytf9vr8oml51cqyit78w.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Azerbaijan - Premier League",
+    "league_link": "https://www.goal.com/en-ae/premier-league/fixtures-results/3428tckxcirwwh3o3jgc1m8ji",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/52sufqqq7vid3xa6iljx6obcz.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/fc-kapaz-vs-zira/7h4e2ofb5esmcpb7m76ifou8k",
+        "time": "17:00",
+        "home": "FC Kapaz",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bvajvatode80d4lx90fl86hi.png",
+        "home_score": "",
+        "away": "Zira",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8oxa17y70f9muh5ytwsbikqeq.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Belgium - First Division A",
+    "league_link": "https://www.goal.com/en-ae/first-division-a/fixtures-results/4zwgbb66rif2spcoeeol2motx",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/4wbzjcclyefma1ourvjsu4q2j.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/westerlo-vs-kv-mechelen/9ic7zee7e8n5dmhxrdm0rea6s",
+        "time": "20:15",
+        "home": "Westerlo",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2nhn3ikl1ciq34w3hcp883d6p.png",
+        "home_score": "",
+        "away": "KV Mechelen",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/b7jmo07lqav0wfe2mtlzyspak.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/standard-liege-vs-gent/9iq7huu5p8rsqqzgtfbyecahg",
+        "time": "22:45",
+        "home": "Standard Liege",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5z1b7fuvpqe6vnigvopomvecu.png",
+        "home_score": "",
+        "away": "Gent",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8y3iucyxguipljcmf87a11bk9.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Brazil - Serie B",
+    "league_link": "https://www.goal.com/en-ae/serie-b/fixtures-results/5zr0b05eyx25km7z1k03ca9jx",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/novorizontino-vs-coritiba/4sc64t9qeaj7bwg4wy2mz5ogk",
+        "time": "",
+        "home": "Novorizontino",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9cl05467nuteeh2yk1ylr897l.png",
+        "home_score": "0",
+        "away": "Coritiba",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ewfcgj6z5nzaswg3n2qwtmut8.png",
+        "away_score": "0"
+      }
+    ]
+  },
+  {
+    "league": "Chile - Primera B",
+    "league_link": "https://www.goal.com/en-ae/primera-b/fixtures-results/bly7ema5au6j40i0grhl0pnub",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/32tb8d7824xg4i0ybxzssczu0.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/la-serena-vs-union-san-felipe/blaevacqfcn2m8tatitvj9ces",
+        "time": "20:00",
+        "home": "La Serena",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2nxp7ufclxwbtaozvx5zj1zym.png",
+        "home_score": "",
+        "away": "Union San Felipe",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/acnr45k0iyzvr8thv0qvspjzi.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Chile - Primera Division",
+    "league_link": "https://www.goal.com/en-ae/primera-division/fixtures-results/2y8bntiif3a9y6gtmauv30gt",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/32tb8d7824xg4i0ybxzssczu0.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/everton-cd-vs-deportes-copiapo/bubdp6hbo8nljblgneh7mtces",
+        "time": "20:30",
+        "home": "Everton CD",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9dqkgu00tn42928lrrxlis95a.png",
+        "home_score": "",
+        "away": "Deportes Copiapo",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5vzljq8u0ug5b7ot3vytz6xkw.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/cobreloa-vs-deportes-iquique/btxv36bnuk8c4uhdaypdzfz10",
+        "time": "23:00",
+        "home": "Cobreloa",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c13hhw4wpbq45nnafm0up66k4.png",
+        "home_score": "",
+        "away": "Deportes Iquique",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4wb893al733feakm9teqqqnlg.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Cyprus - Cup",
+    "league_link": "https://www.goal.com/en-ae/cup/fixtures-results/dv9x9sw2x99ty2r9ztl68vw7u",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3om8cj5nhmq1rzzkykubm5icj.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/omonia-nicosia-vs-pafos-fc/a25bzwz5uh8ugectx29cuxxjo",
+        "time": "21:00",
+        "home": "Omonia Nicosia",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1pf6zmsueuc9tr64ql67gynqc.png",
+        "home_score": "",
+        "away": "Pafos FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d6e2elufz1jf4h68k21uahq7d.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Czechia - First League",
+    "league_link": "https://www.goal.com/en-ae/first-league/fixtures-results/bu1l7ckihyr0errxw61p0m05",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/5md5tpwr2nmqao528prx43jr7.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/slovacko-vs-slavia-prague/1vw2s231oarah6c086s82v3mc",
+        "time": "19:00",
+        "home": "Slovacko",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bp5x8iw8pstucx6s4iqht6xqf.png",
+        "home_score": "",
+        "away": "Slavia Prague",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8kpapuorr6hf0vosnovbreqqd.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/viktoria-plzen-vs-banik-ostrava/1wa8dhvvykrkxhdrx56grtdsk",
+        "time": "19:00",
+        "home": "Viktoria Plzen",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c6fx1460nlkawjgh67sp7a1hd.png",
+        "home_score": "",
+        "away": "Banik Ostrava",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dfvvrv84skv23rsn1k6kt4slc.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "England - League One",
+    "league_link": "https://www.goal.com/en-ae/league-one/fixtures-results/3frp1zxrqulrlrnk503n6l4l",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/3frp1zxrqulrlrnk503n6l4l.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/bolton-vs-oxford/7vrr0le66t7enu2grolhty6fo",
+        "time": "19:15",
+        "home": "Bolton",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/69t8imcdaqlgfbds2p58596my.png",
+        "home_score": "",
+        "away": "Oxford",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ahm0t06rup1bkd9z0mxl2lmph.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "England - Premier League U18",
+    "league_link": "https://www.goal.com/en-ae/premier-league-u18/fixtures-results/7dfd12g9pk1y688q8km7tyspy",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/everton-u18-vs-newcastle-united-u18/3se49rk2630n8htpq1e0u2i38",
+        "time": "15:30",
+        "home": "Everton U18",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9dx3okqm6gfof56f9ajegsr6l.png",
+        "home_score": "",
+        "away": "Newcastle United U18",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6wfiaea13r16j5xvpmx36lkra.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "England - WSL",
+    "league_link": "https://www.goal.com/en-ae/wsl/fixtures-results/6vq8j5p3av14nr3iuyi4okhjt",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/6vq8j5p3av14nr3iuyi4okhjt.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/leicester-city-wfc-vs-liverpool-fc-women/ayhav4waj1swv9klnebtdb02c",
+        "time": "18:00",
+        "home": "Leicester City WFC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/28u3q82ip96ahymkup01vfxli.png",
+        "home_score": "",
+        "away": "Liverpool FC Women",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mjejb0x57ms54j9ry6s8njwh.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/manchester-united-women-vs-chelsea-fc-women/ayreddiuyho0k0huvgpxsoiz8",
+        "time": "18:00",
+        "home": "Manchester United Women",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/axwnneoekq2f2yq6r1l704y96.png",
+        "home_score": "",
+        "away": "Chelsea FC Women",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/spi3g782q7m4evjxn1sv6cfa.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/arsenal-women-vs-brighton-and-hove-albion-women/axmmqczw48hj9pfk4c8z9lc7o",
+        "time": "18:00",
+        "home": "Arsenal Women",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5rurqie3qt1qav9ir5mkqinn.png",
+        "home_score": "",
+        "away": "Brighton & Hove Albion Women",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dcdnoyf6kzhj46iyfm7xq43fy.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/aston-villa-women-vs-manchester-city-women/axwocoeskdpln53vtpe6znl78",
+        "time": "18:00",
+        "home": "Aston Villa Women",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8l30dsub3sutr6j3ruvk650xc.png",
+        "home_score": "",
+        "away": "Manchester City Women",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/36tr17foeaf9ejjmt2txuoy3y.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/bristol-city-wfc-vs-everton-women/ay6qqwd8ptyrwc9umwp9mlxck",
+        "time": "18:00",
+        "home": "Bristol City WFC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9m7z1upwp3svfn611ejq7d36v.png",
+        "home_score": "",
+        "away": "Everton Women",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7kt37xy93vjy6wac8vq6fqz3g.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/tottenham-hotspur-women-vs-west-ham-united-women/az1j74b0vwra53if86bwre710",
+        "time": "18:00",
+        "home": "Tottenham Hotspur Women",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9ijyncrxsejz505dbadwr1dir.png",
+        "home_score": "",
+        "away": "West Ham United Women",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cz26xwowfjp8ei14n9z2ac135.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "France - National",
+    "league_link": "https://www.goal.com/en-ae/national/fixtures-results/1qd0wvt30rlswa4g6nu4na660",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7gww28djs405rfga69smki84o.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/chateauroux-vs-cholet/daf5va5o9wg9f02lhp4np9kpg",
+        "time": "20:00",
+        "home": "Chateauroux",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/67igj3fctu1kt6ntkrwpdt72i.png",
+        "home_score": "",
+        "away": "Cholet",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9602gv3odk2lk7fj0r4a9nee6.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/red-star-vs-epinal/dazhiw7pjitdqedymxpccowes",
+        "time": "20:00",
+        "home": "Red Star",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7qdfg7vuzf70wurnpx0bawlqk.png",
+        "home_score": "",
+        "away": "Epinal",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6jsbx4p2eew3o62qvp1jh7s4b.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/villefranche-beaujolais-vs-nancy/d9wa7hzkazi4uxyqemasyeiac",
+        "time": "20:00",
+        "home": "Villefranche Beaujolais",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/36bxy6avfw3xp8ocj9frad4b7.png",
+        "home_score": "",
+        "away": "Nancy",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/69b9aoly33h1gpicvxtfteoug.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/martigues-vs-nimes/d9dcoolzcydalhna43z7eetck",
+        "time": "20:00",
+        "home": "Martigues",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5obb10bucnesjinq11p1x4mv2.png",
+        "home_score": "",
+        "away": "Nimes",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ackp3k0zn4tukl6ejvn3ajnjz.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/rouen-vs-dijon/d9mtx0secmgy5q0x9fwbz9s7o",
+        "time": "20:00",
+        "home": "Rouen",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/b97a5km6rb42fv858volubsi6.png",
+        "home_score": "",
+        "away": "Dijon",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/79dc2mv3x269nhix3mkhc5wfu.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/avranches-vs-niort/db8t9f6txb1abxz04h8jig74k",
+        "time": "20:00",
+        "home": "Avranches",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d7diopos8sjksapsgz29cvz7v.png",
+        "home_score": "",
+        "away": "Niort",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7vnnz5z9l3zqyaadfsidi7mh0.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/sochaux-vs-versailles/an4mlifubqjd86xuyvsmjwmqc",
+        "time": "20:00",
+        "home": "Sochaux",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d9kwaceoj54pfprd6oc2hwae6.png",
+        "home_score": "",
+        "away": "Versailles",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dse1eu8y1o3t00rlbxpgo084c.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/goal-fc-vs-orleans/da5xb4kjmardxnnvsuhi2g1lg",
+        "time": "20:00",
+        "home": "GOAL FC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xbk3b4z3pxeds339u8vxv4jd.png",
+        "home_score": "",
+        "away": "Orleans",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d79cmam5svw9j2mplbu9kut7p.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/le-mans-vs-marignane-gignac-fc/daq5pie7afxtr2ej0utqkmsk4",
+        "time": "20:00",
+        "home": "Le Mans",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bj8hrmj01r3zit0x8r6qm2eu2.png",
+        "home_score": "",
+        "away": "Marignane/Gignac FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8aapnlyi5jlqt3zhvre33hg4.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Germany - 3. Liga",
+    "league_link": "https://www.goal.com/en-ae/3-liga/fixtures-results/dkarmrybx9vx10rg7cywumth0",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/36min0qztu8eydwvpv8t1is0m.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/1860-munich-vs-arminia-bielefeld/61t5all4oaurjlxl5q1p5ibys",
+        "time": "15:30",
+        "home": "1860 Munich",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1e25o4gxxxnibjh9lgr9ykdfe.png",
+        "home_score": "",
+        "away": "Arminia Bielefeld",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bdlavlqj0dshxnepyfanzwu47.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/dynamo-dresden-vs-msv-duisburg/62dnls8vodzydbmu157n4i13o",
+        "time": "15:30",
+        "home": "Dynamo Dresden",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/97lyl18hz6apklot7hbz4h446.png",
+        "home_score": "",
+        "away": "MSV Duisburg",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1i4jphpy8mkxvkx3e3n6s4mm4.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/luebeck-vs-rw-essen/63z3m31zxlcxdv0g8ixoh785w",
+        "time": "15:30",
+        "home": "Luebeck",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6q4i97a83mdiurw6x83jxq3d3.png",
+        "home_score": "",
+        "away": "RW Essen",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rqebmse0wxmnyrtifkz5nqb6.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/preussen-muenster-vs-unterhaching/636i51okuk5x9o8dusqo3i3o4",
+        "time": "15:30",
+        "home": "Preussen Muenster",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cxs2i7zp6sgr6m46syqdww93y.png",
+        "home_score": "",
+        "away": "Unterhaching",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9hf3qhwxy4k0908nw0xo8rj32.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/freiburg-ii-vs-viktoria-koln-1904/62n2qjbpnxr2mo822xstvhu6s",
+        "time": "15:30",
+        "home": "Freiburg II",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/18h8cv3vojd4f9z7k1zmuaupq.png",
+        "home_score": "",
+        "away": "Viktoria Koln 1904",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dcwu77dqmh2v2qzqlf9sl1cuj.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/jahn-regensburg-vs-saarbruecken/63fyaj0esmukt2qqcyblmmw44",
+        "time": "15:30",
+        "home": "Jahn Regensburg",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d4p104ikzzt5hfwdzppbmp7e0.png",
+        "home_score": "",
+        "away": "Saarbruecken",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/phapxbb6gx2vjn09uozt2et6.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/hallescher-fc-vs-borussia-dortmund-ii/63phsw0asa6jk5mcms73cmadw",
+        "time": "15:30",
+        "home": "Hallescher FC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/18a3r3xjq2heoy0u127k92ab5.png",
+        "home_score": "",
+        "away": "Borussia Dortmund II",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/25j61j3nddighxngqktjlmt8n.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/sandhausen-vs-ingolstadt/624a15rxjcvbtb74y4gla8h04",
+        "time": "15:30",
+        "home": "Sandhausen",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/884uzyf1wosc7ykji6e18gifp.png",
+        "home_score": "",
+        "away": "Ingolstadt",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/auoply899efk4rs1a0ew6v9jq.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/erzgebirge-aue-vs-waldhof-mannheim/62wkbaarkckzlzvsn1w7am4gk",
+        "time": "15:30",
+        "home": "Erzgebirge Aue",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/m5tpogrj0txk7qjdbb57wba.png",
+        "home_score": "",
+        "away": "Waldhof Mannheim",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c4avukfubmikbchq9an2ulrik.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/ulm-vs-sc-verl/648jznf4aqkenaf5tt7uyrdas",
+        "time": "15:30",
+        "home": "Ulm",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6jg331h22e39cb5xt1rpo2kgw.png",
+        "home_score": "",
+        "away": "SC Verl",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3qheqndokbtwr4smt85w4fr82.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Ghana - 1. Division",
+    "league_link": "https://www.goal.com/en-ae/1-division/fixtures-results/4jg7he1n3rb5dniq6hf49xorq",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2q2sw72utw5gu9t5y4knckwba.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/berekum-chelsea-vs-kotoko/6wjhc6vf1nkvfzl7zd4habdas",
+        "time": "19:00",
+        "home": "Berekum Chelsea",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3mehi6kdy2x35ymzq5nxrv8g7.png",
+        "home_score": "",
+        "away": "Kotoko",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c3um65ybq4lr72xgyfuurlr6a.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/legon-cities-fc-vs-great-olympics/6vb4cwlhy1xz589felzm6datw",
+        "time": "19:00",
+        "home": "Legon Cities FC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/l9iajo38r5usssiooccsp81d.png",
+        "home_score": "",
+        "away": "Great Olympics",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4pyrgu1yvcd0wj5nbr7xqfr2t.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Hungary - NB I",
+    "league_link": "https://www.goal.com/en-ae/nb-i/fixtures-results/47s2kt0e8m444ftqvsrqa3bvq",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1vy5vlux7mj2r7r9ktd71hhpo.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/puskas-fc-academy-vs-debrecen/e1xgqec0jg3hsr5f8ljnty80k",
+        "time": "19:45",
+        "home": "Puskas FC Academy",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7gmb3yf0l30i996xp4cqt5u9p.png",
+        "home_score": "",
+        "away": "Debrecen",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/b7jek1bop3eoughds0xi22tte.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/fehervar-fc-vs-diosgyori-vtk/e27gsdo6pfl9cxriayksvdgyc",
+        "time": "19:45",
+        "home": "Fehervar FC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aebm5g2ss8l4r09xu95hpwtwo.png",
+        "home_score": "",
+        "away": "Diosgyori VTK",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/amfs0dhjwsobm10en9twg0q.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/paksi-se-vs-kisvarda/e1dg0vuh4kipftkvrb168pel0",
+        "time": "19:45",
+        "home": "Paksi SE",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e86hbyj6fwyumuwoiaglh33r5.png",
+        "home_score": "",
+        "away": "Kisvarda",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8raew9whdfuuvsedk0pyiwc5d.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Indonesia - Liga 1",
+    "league_link": "https://www.goal.com/en-ae/liga-1/fixtures-results/117yqo02rs8dykkxpm274w3bd",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1zi2c00k6skx48tn692uem0n6.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/persib-bandung-vs-bali-united-fc/2ameeai5bvnqnupippnmo19g4",
+        "time": "16:00",
+        "home": "Persib Bandung",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4hz9pkq1g1xwg6m8769runh4l.png",
+        "home_score": "",
+        "away": "Bali United FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ecx4fmvv0gjzehudsx6puy69x.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Israel - Ligat HaAl",
+    "league_link": "https://www.goal.com/en-ae/ligat-haal/fixtures-results/2xg0qvif1rh7du6wmk2eleku3",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/4bnqn6mt5vyslpxfuqdrcmpgp.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/hapoel-hadera-vs-hapoel-tel-aviv/1p20q39bwz3j9lkgjnjl0znkk",
+        "time": "19:00",
+        "home": "Hapoel Hadera",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c99ke5wvxc8gjsn1mt4n6y38v.png",
+        "home_score": "",
+        "away": "Hapoel Tel Aviv",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dv6fn97f0kx4x988y86gkmwb8.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/fc-ashdod-vs-hapoel-jerusalem-fc/1q7d6zx2eiilk8hv25uglsd1w",
+        "time": "19:00",
+        "home": "FC Ashdod",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3xbrfd77vj0zi8vbrnwqz54z.png",
+        "home_score": "",
+        "away": "Hapoel Jerusalem FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ehmuu62daxvzhvn2wfoe9t86y.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/bnei-sakhnin-vs-maccabi-haifa/1o5x9akrykph9tec26y2xwgt0",
+        "time": "21:30",
+        "home": "Bnei Sakhnin",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/54hbubv11m3ygghs51uperow9.png",
+        "home_score": "",
+        "away": "Maccabi Haifa",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bglyqy0awtu6lzvpab390rir2.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/maccabi-bnei-raina-vs-hapoel-haifa/1ovkz5hvt2h3z7x18epybpatw",
+        "time": "21:30",
+        "home": "Maccabi Bnei Raina",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bvgvmydv5tuf6lxvwvuwbrfje.png",
+        "home_score": "",
+        "away": "Hapoel Haifa",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7cd60mgte8skipavum0o6ecyo.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/maccabi-tel-aviv-vs-hapoel-beer-sheva/1oip1i721il3md0jam11pxhxw",
+        "time": "21:30",
+        "home": "Maccabi Tel Aviv",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ealjallt13942jb2q2hk4buxa.png",
+        "home_score": "",
+        "away": "Hapoel Beer Sheva",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9ppjmek1r3tb9yddebneaxj7i.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Italy - Serie A Femminile",
+    "league_link": "https://www.goal.com/en-ae/serie-a-femminile/fixtures-results/81txfenlgw75nq3u2nfdkj92o",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/25f2cmb2r8mk5rj92tzer6kvv.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/sassuolo-vs-juventus/6q9zf8jnxn95611ysvbt6mgb8",
+        "time": "17:00",
+        "home": "Sassuolo",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7jaarwfaeewpo3vnfvhc2c665.png",
+        "home_score": "",
+        "away": "Juventus",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7w2y7s7q5r1h1flz9y4sj6xka.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/ac-milan-vs-uc-sampdoria/3dvsp4rm11rpaor3t8rc6vs44",
+        "time": "20:00",
+        "home": "AC Milan",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/acpt3r9i7hburdteruzc31u96.png",
+        "home_score": "",
+        "away": "UC Sampdoria",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/agjf3593kdfob1fl43rlt2b6c.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Italy - Serie B",
+    "league_link": "https://www.goal.com/en-ae/serie-b/fixtures-results/8ey0ww2zsosdmwr8ehsorh6t7",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/25f2cmb2r8mk5rj92tzer6kvv.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/catanzaro-vs-brescia/7zdpkse0cerais51unpnt4wes",
+        "time": "22:30",
+        "home": "Catanzaro",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/91dpo3oaxg1kschcxbedwlxps.png",
+        "home_score": "",
+        "away": "Brescia",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/a80afp6w8wof6ci633u8k93de.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Italy - Serie C",
+    "league_link": "https://www.goal.com/en-ae/serie-c/fixtures-results/1zp1du9n4rj36p1ss9zbxtqfb",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/25f2cmb2r8mk5rj92tzer6kvv.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/carrarese-vs-perugia/782ojpcoqqyi76nwjb4upuo0k",
+        "time": "22:30",
+        "home": "Carrarese",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/80cgd16maqsywgwte0zzemj3n.png",
+        "home_score": "",
+        "away": "Perugia",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/60gjrw8umdjqn8tp31d1nfwye.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/catania-vs-atalanta-u23/79gf73m6ldb36qn3liczaw1lg",
+        "time": "22:30",
+        "home": "Catania",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d8yo08wsbyak6n04xf75jlxoh.png",
+        "home_score": "",
+        "away": "Atalanta U23",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7f99ecm9nxrzuph8fc8wpe49g.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/lr-vicenza-vs-taranto/77djg03uukyr0y1mkcc71p5p0",
+        "time": "23:00",
+        "home": "LR Vicenza",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eyq5lo3103vpa83za6fasm0ng.png",
+        "home_score": "",
+        "away": "Taranto",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8zna79nc8jxgw2cunm7ikqta6.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Japan - J. League 2",
+    "league_link": "https://www.goal.com/en-ae/j-league-2/fixtures-results/5z8v4mj6cjs9ex6hdrpourjzh",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/lxyibh89lpdc0bfian1nx0xq.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/mito-hollyhock-vs-oita-trinita/20xbauvz7uoagzfszfbvkchzo",
+        "time": "",
+        "home": "Mito Hollyhock",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7xcx4olkp9vjsquxsrf2s3iba.png",
+        "home_score": "1",
+        "away": "Oita Trinita",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rapx5gn6sbem92ad0sditvo5.png",
+        "away_score": "1"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/tokushima-vortis-vs-roasso-kumamoto/22vw7amzi6zoo36kge3y5qwwk",
+        "time": "",
+        "home": "Tokushima Vortis",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6dq0duhp2l658aa8qiezr4fgf.png",
+        "home_score": "1",
+        "away": "Roasso Kumamoto",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/11jr1481luf8k5nogcvfabv8q.png",
+        "away_score": "2"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/yokohama-fc-vs-shimizu-s-pulse/22eevm0or273lcnpwxneljjf8",
+        "time": "",
+        "home": "Yokohama FC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ctm9as17rs95yhuz7qf53wfke.png",
+        "home_score": "2",
+        "away": "Shimizu S-Pulse",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/a1escgblmveduau3j1st0lbxn.png",
+        "away_score": "0"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/montedio-yamagata-vs-blaublitz-akita/20fs6mocpayoztlxbaouhxiqc",
+        "time": "",
+        "home": "Montedio Yamagata",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1nm96lsa5dm33vbu2jy56i9fk.png",
+        "home_score": "0",
+        "away": "Blaublitz Akita",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e7oi5pollofadw2silxqfy3va.png",
+        "away_score": "2"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/jef-united-chiba-vs-ehime-fc/21x4la34b67kynljycz5prm6s",
+        "time": "",
+        "home": "JEF United Chiba",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/29cmppm4tntuasdgyxjpck882.png",
+        "home_score": "7",
+        "away": "Ehime FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/40w6f4f8320xm9w0pphdr1ff.png",
+        "away_score": "1"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/thespakusatsu-gunma-vs-iwaki-fc/21epru12sfosnpzupqvn8zx1w",
+        "time": "",
+        "home": "Thespakusatsu Gunma",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/drhhxs1s3wrvoy0bzjg290gk.png",
+        "home_score": "0",
+        "away": "Iwaki FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cimycfmamkmp6cbkn70opnnqh.png",
+        "away_score": "1"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/kagoshima-united-vs-v-varen-nagasaki/23dceuj7z2pvhdoli48ymhs0k",
+        "time": "",
+        "home": "Kagoshima United",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/41z024syj3mi4jpyjj68k4ptx.png",
+        "home_score": "0",
+        "away": "V-Varen Nagasaki",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8o5yuhx32ra276o71dmwizq2d.png",
+        "away_score": "2"
+      }
+    ]
+  },
+  {
+    "league": "Japan - J. League 3",
+    "league_link": "https://www.goal.com/en-ae/j-league-3/fixtures-results/b1rveez5u792gess9w3e7v5le",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/lxyibh89lpdc0bfian1nx0xq.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/imabari-fc-vs-fukushima-united/cqxofdz7nw1dvk8ifsov771g4",
+        "time": "",
+        "home": "Imabari FC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/48pguz8h8nahrq8h5osz4uift.png",
+        "home_score": "1",
+        "away": "Fukushima United",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2tzanrhgy4es2ii6z97olu538.png",
+        "away_score": "2"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/kamatamare-sanuki-vs-omiya-ardija/ctk29gfimqzk8fdx7q0r6fqj8",
+        "time": "",
+        "home": "Kamatamare Sanuki",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/19olw6x3cf4cvt9tslkat4yux.png",
+        "home_score": "0",
+        "away": "Omiya Ardija",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/64szr28vw5kyi2ikzvwd4qvnc.png",
+        "away_score": "2"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/grulla-morioka-vs-yscc/crd6djxon8lndh72tmcztqhw4",
+        "time": "",
+        "home": "Grulla Morioka",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gicutp8uz76wdyr4gtl39eny.png",
+        "home_score": "0",
+        "away": "YSCC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/24cvp1bm7fdjyb8kkkbl2idf3.png",
+        "away_score": "1"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/nagano-parceiro-vs-zweigen-kanazawa/csa9836s36sbkek0zgfg16yok",
+        "time": "",
+        "home": "Nagano Parceiro",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1hcay7amxirk5i2vc8b4t3vz6.png",
+        "home_score": "1",
+        "away": "Zweigen Kanazawa",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6eafkwa8gyra2lmnn1855986d.png",
+        "away_score": "2"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/matsumoto-yamaga-vs-giravanz-kitakyushu/crsoxwj92ca0gyb1wdftuigic",
+        "time": "",
+        "home": "Matsumoto Yamaga",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/67da6dylei8arq0bl27jfnplf.png",
+        "home_score": "1",
+        "away": "Giravanz Kitakyushu",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8rj1mofyarlsggmngqolhbzkb.png",
+        "away_score": "1"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/kataller-toyama-vs-fc-osaka/cspm6pjpr1zepbrn9e4w0stuc",
+        "time": "",
+        "home": "Kataller Toyama",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dtjpkopknilpytvcelspishu4.png",
+        "home_score": "2",
+        "away": "FC Osaka",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e0u1sbhnf87oujxqvma544a8l.png",
+        "away_score": "0"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/nara-club-vs-fc-gifu/ct4vr82kcdpgiys27s3609gyc",
+        "time": "",
+        "home": "Nara Club",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/54kmcmanmxrdj80ni5vhix7pm.png",
+        "home_score": "2",
+        "away": "FC Gifu",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/a69otdy6evbhx52j2ioexozhy.png",
+        "away_score": "1"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/fc-ryukyu-vs-tegevajaro-miyazaki/ctzgu0whu7xqwwlw7tj1tiwic",
+        "time": "12:00",
+        "home": "FC Ryukyu",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7zrnrs7x43ipdkr1f86pxikoc.png",
+        "home_score": "",
+        "away": "Tegevajaro Miyazaki",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3glkqxhg02onhp9rtqpsovkoa.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Malaysia - Liga Super",
+    "league_link": "https://www.goal.com/en-ae/liga-super/fixtures-results/eg6s9f1jj7jr6stmbosn0g6c8",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2nkhuc4d9vq5llknmxpa0wbhy.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/johor-darul-ta-zim-vs-negeri-sembilan/asjsfyjhqc4s2jxhdd1qmmfis",
+        "time": "13:30",
+        "home": "Johor Darul Ta'zim",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9bq1u6a6r5cennzu581mh2910.png",
+        "home_score": "",
+        "away": "Negeri Sembilan",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6wldoqs1bo4orobls8ig1lezj.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/selangor-vs-kedah-darul-aman/asznaymqqak3lni1xiwzokqac",
+        "time": "16:15",
+        "home": "Selangor",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vukmpggyqkrma2y1baom82re.png",
+        "home_score": "",
+        "away": "Kedah Darul Aman",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/92sylruibv2r3p92dize5kb4x.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/perak-vs-pdrm/athel7gh8ueycnfu9fijnsglw",
+        "time": "17:00",
+        "home": "Perak",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/f5c9abgrfgehawi82w3touv8w.png",
+        "home_score": "",
+        "away": "PDRM",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e0s7ua1j3azakxk3qjkbfc5d9.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Mexico - Liga MX Femenil",
+    "league_link": "https://www.goal.com/en-ae/liga-mx-femenil/fixtures-results/7ut48s80k421xixh6ev5i6h62",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/5trdr3jf42i20zj1hnkvcytr6.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/monterrey-vs-pachuca/1rnfyfbix86z40f8kysdayzh0",
+        "time": "",
+        "home": "Monterrey",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d5l24hclhq0gv2bc1nvysbxii.png",
+        "home_score": "2",
+        "away": "Pachuca",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8i0ui7dqf9j23dtrw4lx5fey2.png",
+        "away_score": "0"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/cf-america-vs-tigres/1q10mk17y9qt9hl40ve81vggk",
+        "time": "",
+        "home": "CF America",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/b4iesl9xvgjqfvdxkyj2o6c16.png",
+        "home_score": "3",
+        "away": "Tigres",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6yfdc2frjgibkax4c2uf2hbhm.png",
+        "away_score": "1"
+      }
+    ]
+  },
+  {
+    "league": "Netherlands - Playoff",
+    "league_link": "https://www.goal.com/en-ae/playoff/fixtures-results/4887fa8m7jkxymlmo4sj1mhhi",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/6hzi5pltnz67q4la8yli9qfv6.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/fc-dordrecht-vs-fc-emmen/atyvf9yp27cv12natkforepzo",
+        "time": "18:30",
+        "home": "FC Dordrecht",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/z9phg19papi9f5fd6qxzr836.png",
+        "home_score": "",
+        "away": "FC Emmen",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3t0vjqtxc8wpjzv82i3oi2ova.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/ado-den-haag-vs-de-graafschap/aulbahzausjda98v3zxo18d90",
+        "time": "22:00",
+        "home": "ADO Den Haag",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e8hiwrw6ocxm5iht6sp7jiv19.png",
+        "home_score": "",
+        "away": "De Graafschap",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xcevba75jfkrg4s6tl89zl3y.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Poland - Ekstraklasa",
+    "league_link": "https://www.goal.com/en-ae/ekstraklasa/fixtures-results/7hl0svs2hg225i2zud0g3xzp2",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/27baqb7359ywdvsxxklx1kn11.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/korona-kielce-vs-ruch-chorzow/eicpvlarowk50vmcvzfh9q1as",
+        "time": "17:00",
+        "home": "Korona Kielce",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2l1pdpvptdw9ois9qkrs9xi3c.png",
+        "home_score": "",
+        "away": "Ruch Chorzow",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bvn916e9momkzgb2v3mqln2un.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/slask-wroclaw-vs-radomiak-radom/ejpz5jjp0gc5opbzj89l4r11w",
+        "time": "19:30",
+        "home": "Slask Wroclaw",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2672w7jn6onmk0lmpsp94eutg.png",
+        "home_score": "",
+        "away": "Radomiak Radom",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5iq037iifttb7jw2zkz2z57pj.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/piast-gliwice-vs-jagiellonia-bialystok/eimic8gvihuphr1wtde5uq3h0",
+        "time": "22:00",
+        "home": "Piast Gliwice",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d7i1aj8vnexyqv76yt03d54wc.png",
+        "home_score": "",
+        "away": "Jagiellonia Bialystok",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8jw3s68b9lil5xcgjvbcmrgc2.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Poland - I Liga",
+    "league_link": "https://www.goal.com/en-ae/i-liga/fixtures-results/8dn0w8zh7nbn2i904603eigwf",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/27baqb7359ywdvsxxklx1kn11.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/zaglebie-sosnowiec-vs-miedz-legnica/egtvbdvowc1kwy3ohpjmjio7o",
+        "time": "17:00",
+        "home": "Zaglebie Sosnowiec",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c9kenhiaetdrqo7qypqt0uuou.png",
+        "home_score": "",
+        "away": "Miedz Legnica",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dr2kq4jv0qx4qtui51vrkft6k.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/gks-katowice-vs-wisla-krakow/eg9tcufc59awxe9hmuzv5qsyc",
+        "time": "19:30",
+        "home": "GKS Katowice",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e4282tj4jnq8h2to6sjr08jl.png",
+        "home_score": "",
+        "away": "Wisla Krakow",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/a226arvd7ujft5jacs8ooc1p7.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/gornik-leczna-vs-stal-rzeszow/efprl4ch3k1dxvpl6f8cypx5g",
+        "time": "22:00",
+        "home": "Gornik Leczna",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cvufavhxize5ifqbsxyb4cbwr.png",
+        "home_score": "",
+        "away": "Stal Rzeszow",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oubq5v4lp1eowdxvdkn4o5sj.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Poland - II Liga",
+    "league_link": "https://www.goal.com/en-ae/ii-liga/fixtures-results/663a54fmymndjeev47qm7d3nf",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/27baqb7359ywdvsxxklx1kn11.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/olimpia-elblag-vs-polonia-bytom/a4r17wj9i47det94g4jumx1xw",
+        "time": "19:30",
+        "home": "Olimpia Elblag",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dtn9kie1hog6a6rtc1oslxfo3.png",
+        "home_score": "",
+        "away": "Polonia Bytom",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6z83iw9oblyg0bct1jmqz7utq.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Portugal - Liga Portugal 2",
+    "league_link": "https://www.goal.com/en-ae/liga-portugal-2/fixtures-results/8sdpk4aerruf515yh76ezo7vi",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1nbm5i9a0403zzvltn17lxinc.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/feirense-vs-vilaverdense-fc/6kwrw7dm4eqknaupob48bjac4",
+        "time": "14:00",
+        "home": "Feirense",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1eqgbl6a2ulf74tjbscpo7h6f.png",
+        "home_score": "",
+        "away": "Vilaverdense FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/f32f7fn4zmbmv2p73n8z9uwq2.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "South Africa - Premier Soccer League",
+    "league_link": "https://www.goal.com/en-ae/premier-soccer-league/fixtures-results/yv73ms6v1995b5wny16jcfi3",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1kiwby3xmt97m3ejw76qs4i6k.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/kaizer-chiefs-vs-polokwane-city/cew0i8gw02pf5lf6sdxpdh8gk",
+        "time": "17:00",
+        "home": "Kaizer Chiefs",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9g72y015b6fgkgtpx1c67qemi.png",
+        "home_score": "",
+        "away": "Polokwane City",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/10gsgscz6bzjl2aj6zrqoia1q.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/sekhukhune-united-vs-amazulu-fc/cfem43g9kkododsk6hr5ce61g",
+        "time": "17:00",
+        "home": "Sekhukhune United",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dskcf9vnfqys0leihwl0krxg4.png",
+        "home_score": "",
+        "away": "AmaZulu FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ak8ykavbpvki7rmekeyjfdit.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/royal-am-vs-chippa-united/cf5ba0gkcdeja7j1yi731bmz8",
+        "time": "17:00",
+        "home": "Royal AM",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/86uzj3x4m8a46echw3r4sixhl.png",
+        "home_score": "",
+        "away": "Chippa United",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4cz716ugykgw3dl82z43evgai.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/ts-galaxy-vs-orlando-pirates/cg6ii7x6o6skr4km175xvmkus",
+        "time": "17:00",
+        "home": "TS Galaxy",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9fjzy739uj2borv29vzra2vl6.png",
+        "home_score": "",
+        "away": "Orlando Pirates",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/asatsyoargv5n2y7o04swilai.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/stellenbosch-fc-vs-mamelodi-sundowns-fc/cfnv2ucqyn0cz8akxgi2ljw2c",
+        "time": "17:00",
+        "home": "Stellenbosch FC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1shnouk5hkyelymt9ave9djub.png",
+        "home_score": "",
+        "away": "Mamelodi Sundowns FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3h2hc3qy5uritiscjfq27bv3a.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/lamontville-golden-arrows-vs-cape-town-spurs/cemqkl18vj67xjebia83czjmc",
+        "time": "17:00",
+        "home": "Lamontville Golden Arrows",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/s7xf6mvsygysn88hs5bx1vzj.png",
+        "home_score": "",
+        "away": "Cape Town Spurs",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/el0msqx2dlnsidy0dzgd934i3.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/cape-town-city-fc-vs-richards-bay/cedeiaiqzrybb5f49zltsx1jo",
+        "time": "17:00",
+        "home": "Cape Town City FC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/b0gaeazzuecckeuhyp5b4dz44.png",
+        "home_score": "",
+        "away": "Richards Bay",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epezc4zxkhy5y9x24tqdfmdt6.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/supersport-united-vs-swallows-fc/cfx9uwtlt8am0or241xbns0t0",
+        "time": "17:00",
+        "home": "SuperSport United",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/70r3cpn394fvo2rl70s5hlx9z.png",
+        "home_score": "",
+        "away": "Swallows FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6gs5c8gbzzh6q130gsng43gxd.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "South Korea - K-League 1",
+    "league_link": "https://www.goal.com/en-ae/k-league-1/fixtures-results/avs3xposm3t9x1x2vzsoxzcbu",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/4vzpxtqkiwx0puygnmayr74di.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/daejeon-hana-citizen-vs-incheon-united/4bpczqfce5xqhe0owujqd638",
+        "time": "",
+        "home": "Daejeon Hana Citizen",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4oixf5ykhg01zfxpt7gbpn3dq.png",
+        "home_score": "0",
+        "away": "Incheon United",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4dkougngrd8mpvfb1cr9mdb1p.png",
+        "away_score": "0"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/gimcheon-sangmu-vs-jeju-united/53xcoi3i4fo4hr9wvrx1sw0k",
+        "time": "14:00",
+        "home": "Gimcheon Sangmu",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dn1cz3b4rc04kzy5k33dg62m.png",
+        "home_score": "",
+        "away": "Jeju United",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/92h5si20tnxjtg4hj8cs97bpw.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Spain - Segunda Division",
+    "league_link": "https://www.goal.com/en-ae/segunda-division/fixtures-results/3is4bkgf3loxv9qfg3hm8zfqb",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/49ih1pwv3ahshdf8uzrimi54c.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/sd-huesca-vs-racing-santander/67338zmuy0ratboxq66qg79xw",
+        "time": "18:15",
+        "home": "SD Huesca",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/egfc4v1d08dgbhkw8gxz85bzr.png",
+        "home_score": "",
+        "away": "Racing Santander",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bzkwzatvwahmbzok1ymm5vqa1.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/leganes-vs-sporting-gijon/67cnsb7bfojg0vk6rxl9ug9hw",
+        "time": "18:15",
+        "home": "Leganes",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3krm0f4yr1l80j1sd7823f9xn.png",
+        "home_score": "",
+        "away": "Sporting Gijon",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9wfi6tgumbrnkp72z8zab89kr.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/tenerife-vs-sd-amorebieta/67vtkwwbd1ccmdl2td8bxy0wk",
+        "time": "23:00",
+        "home": "Tenerife",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c2v5gyres2yaemc7t3ns323bj.png",
+        "home_score": "",
+        "away": "SD Amorebieta",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8tfkd45peu8mad2s3abk7sl4p.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/eldense-vs-levante/66jnuo3sm5n4qcyz51bt5xvdg",
+        "time": "23:00",
+        "home": "Eldense",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ba8jyjo18tvjwei7w7thljw10.png",
+        "home_score": "",
+        "away": "Levante",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4grc9qgcvusllap8h5j6gc5h5.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Spain - Segunda Federacion",
+    "league_link": "https://www.goal.com/en-ae/segunda-federacion/fixtures-results/cegl2ivkc25blcatxp4jmk1ec",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/49ih1pwv3ahshdf8uzrimi54c.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/barakaldo-vs-cd-atletico-paso/1388ro1ny3eipvnifiwgs0kyc",
+        "time": "20:00",
+        "home": "Barakaldo",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/caghidiok1z6ksd3iym8feghw.png",
+        "home_score": "",
+        "away": "CD Atletico Paso",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ewxau5itgzacajmkdeze6cuay.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Switzerland - Super League",
+    "league_link": "https://www.goal.com/en-ae/super-league/fixtures-results/e0lck99w8meo9qoalfrxgo33o",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3bh70jgvc5mn58x0byjkuda17.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/grasshopper-club-vs-fc-basel-1893/dkcpjkxlmga80mctosft0mu50",
+        "time": "20:00",
+        "home": "Grasshopper Club",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9dqlf92t42brv71kvaet67tm4.png",
+        "home_score": "",
+        "away": "FC Basel 1893",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5u18kvqiqhup2vd345dci1069.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Thailand - Thai League",
+    "league_link": "https://www.goal.com/en-ae/thai-league/fixtures-results/iu1vi94p4p28oozl1h9bvplr",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/71wqq15l0mvpl4lneayzzh44g.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/muang-thong-united-vs-chonburi-fc/90ywskenwxodbki3zqhql1w5w",
+        "time": "15:00",
+        "home": "Muang Thong United",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5b1wudffp0cb3gcqkc7hptga3.png",
+        "home_score": "",
+        "away": "Chonburi FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/55msuyhmnxi9gyilt41cn0q54.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/prachuap-fc-vs-chiangrai-united/907dvyavykrkxwpzoc3snjx90",
+        "time": "15:00",
+        "home": "Prachuap FC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/b7648sol503d70wsqopdcxb4d.png",
+        "home_score": "",
+        "away": "Chiangrai United",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/brl5p6f98sfr4bac3o1ms7rc.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/trat-fc-vs-lamphun-warrior/9180ju0cqh72h1v1lk7987s44",
+        "time": "15:30",
+        "home": "Trat FC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5c9rmpmisk6njon8ht3cnmtb4.png",
+        "home_score": "",
+        "away": "Lamphun Warrior",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5h1qevpp1fftczcgcotyrtfut.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/uthai-thani-fc-vs-buriram-united/91hbzpzjowzncpp85107213is",
+        "time": "16:00",
+        "home": "Uthai Thani FC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5ew3bamnqnroeyk506cli661g.png",
+        "home_score": "",
+        "away": "Buriram United",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7tsq0z1iiv6nxgqeh16ikhk0r.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Uruguay - Segunda Division",
+    "league_link": "https://www.goal.com/en-ae/segunda-division/fixtures-results/6jgwiu2gq3dllmrwt45pfdn2z",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/286fwlvd6dzntv6ewv3cyvb0p.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/la-luz-vs-montevideo-city-torque/5w6l9ify7pb8zvbpmgzt4dc0k",
+        "time": "",
+        "home": "La Luz",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/20l22let8baylwi3h2g1bw2qd.png",
+        "home_score": "0",
+        "away": "Montevideo City Torque",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3d9c158350xh1oq4mhpdrkz3x.png",
+        "away_score": "1"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/rentistas-vs-cerrito/5wjclcb4hwfp9tp0ukbzxkxzo",
+        "time": "17:00",
+        "home": "Rentistas",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1jo5chfqowzcapj5ut60tgj4k.png",
+        "home_score": "",
+        "away": "Cerrito",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bwa0me6b82pljhc5f3tu11p40.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "USA - NWSL",
+    "league_link": "https://www.goal.com/en-ae/nwsl/fixtures-results/djkvh1luqdkdixpoe653lzixg",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/djkvh1luqdkdixpoe653lzixg.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/houston-dash-vs-portland-thorns/7rbd74qpndd6yfsfinh10obv8",
+        "time": "",
+        "home": "Houston Dash",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c3v2ohfuzoqmc8ljm65hi80sj.png",
+        "home_score": "0",
+        "away": "Portland Thorns",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/446mp88j1vpk9iwui9fiifrp8.png",
+        "away_score": "2"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/north-carolina-courage-vs-utah-royals/7rouzfpe6i1kpfpun7dn4mf4k",
+        "time": "",
+        "home": "North Carolina Courage",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/b4fbmos00gxtk8qnaqsm392p5.png",
+        "home_score": "1",
+        "away": "Utah Royals",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bn7w86uw8j61dga3xr5s0yiju.png",
+        "away_score": "0"
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/bay-fc-vs-san-diego-wave-fc/7s2g0y1q79hsvx271n9c9l89g",
+        "time": "",
+        "home": "Bay FC",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eka22bj7co8bw5qxa6qlbinf8.png",
+        "home_score": "2",
+        "away": "San Diego Wave FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/esvbnzqbyvxp2k570ez7h1a1g.png",
+        "away_score": "1"
+      }
+    ]
+  },
+  {
+    "league": "Vietnam - V-League",
+    "league_link": "https://www.goal.com/en-ae/v-league/fixtures-results/aho73e5udydy96iun3tkzdzsi",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/747si8rr6manolqh31d1vz17q.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/song-lam-nghe-an-vs-khanh-hoa-fc/4v8kd2m9p4tcmzeaij510qsd0",
+        "time": "14:00",
+        "home": "Song Lam Nghe An",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2x5ud25weyz16rn929qk2gym2.png",
+        "home_score": "",
+        "away": "Khanh Hoa FC",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/a0chtqj9kkuadkm7vpxjchpt4.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/binh-dinh-vs-hai-phong/4vkkluvk262p7mxwly9wzfqc4",
+        "time": "15:00",
+        "home": "Binh Dinh",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/27030k8z8xk9hg6jwfpi7g624.png",
+        "home_score": "",
+        "away": "Hai Phong",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3yvljt5ozkti7b5ewrvcwgwfr.png",
+        "away_score": ""
+      },
+      {
+        "match_link": "https://www.goal.com/en-ae/match/viettel-vs-nam-dinh/4vwa1hiju3gvc0b47xl2tgf84",
+        "time": "16:15",
+        "home": "Viettel",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/76abk4q0gl4z93luyopkkkuzc.png",
+        "home_score": "",
+        "away": "Nam Dinh",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/672z96yvkbv5uo7melm3rhexx.png",
+        "away_score": ""
+      }
+    ]
+  },
+  {
+    "league": "Wales - Premier League",
+    "league_link": "https://www.goal.com/en-ae/premier-league/fixtures-results/c76z5d6j7dpi1e79tm8fpm39z",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/26ilvvgth36hmq6lgq8cy5cb5.png",
+    "match": [
+      {
+        "match_link": "https://www.goal.com/en-ae/match/caernarfon-vs-penybont/dtoxzfppo9iucv7bt2042kavo",
+        "time": "17:45",
+        "home": "Caernarfon",
+        "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6f0nv19nuoin8pxfbuxif5hci.png",
+        "home_score": "",
+        "away": "Penybont",
+        "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dozumun3c1iyou6uruj9e8ei6.png",
+        "away_score": ""
+      }
+    ]
+  }
+]

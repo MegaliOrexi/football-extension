@@ -1,0 +1,26 @@
+{
+    "name": "Footy Live Score",
+    "description": "Football live scores",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+      "tabs",
+      "storage"
+    ],
+    "icons": {
+      "16": "icon.png",
+      "32": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+      "action": {
+        "default_icon": {
+          "16": "icon.png",
+          "24": "icon.png",
+          "32": "icon.png"   
+        },
+        "default_title": "Football Live score",
+        "default_popup": "popup.html"
+      }
+  }
+  
